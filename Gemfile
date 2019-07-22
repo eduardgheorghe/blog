@@ -3,7 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
 
-# Annotate models
+# Annotate models 
 gem 'annotate'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
